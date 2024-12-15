@@ -1,13 +1,15 @@
 # 💫 About Me:
 Software Engineering Student - FPT University
 
+
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/PhiNSE"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/PhiNSE"
+  width="600"
+  height="300"
+/>
 </a>
+  
 
 ## Objective - Java back-end developer
 
