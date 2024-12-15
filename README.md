@@ -73,3 +73,12 @@ Mini Store is a web application for a local grocery store that helps admins mana
 [![](https://visitcount.itsvg.in/api?id=PhiNSE&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/PhiNSE"
+    width="600"
+    height="120"
+  />
+</a>
+  
