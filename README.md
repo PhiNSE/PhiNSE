@@ -2,7 +2,7 @@
 Software Engineering Student - FPT University
 
 
-<a href="https://github.com/devxb/gitanimals">
+<a align="center" href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/PhiNSE"
   width="600"
