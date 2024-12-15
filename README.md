@@ -1,6 +1,14 @@
 # 💫 About Me:
 Software Engineering Student - FPT University
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/PhiNSE"
+    width="600"
+    height="120"
+  />
+</a>
+
 ## Objective - Java back-end developer
 
 A dedicated and detail-oriented software engineering student, I am actively seeking a Java Back-end Internship position to apply my strong programming skills and passion for software development. I am eager to contribute to the success of projects by leveraging my technical expertise and enthusiasm for creating innovative solutions. By actively collaborating with the team, I aim to deliver high-quality code that enhances the company's backend systems. I am committed to continuously improving my skills and staying updated with the latest industry trends, enabling me to make valuable contributions to the team and positively impact the company's growth.
@@ -74,11 +82,4 @@ Mini Store is a web application for a local grocery store that helps admins mana
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/PhiNSE"
-    width="600"
-    height="120"
-  />
-</a>
   
